@@ -39,7 +39,7 @@ playerspeed = 15
 
 
 #Choose a number of blobs
-number_of_blobs = 10
+number_of_blobs = 5
 #Create an empty list of blobs
 blobs = []
 
