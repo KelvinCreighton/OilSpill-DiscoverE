@@ -1,5 +1,6 @@
 # OilSpill-DiscoverE
-https://github.com/discoverE-Instructor/OilSpill.py\n
+https://github.com/discoverE-Instructor/OilSpill.py
+
 --- Discontinued ---
 
 
