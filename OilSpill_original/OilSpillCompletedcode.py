@@ -113,7 +113,7 @@ def clean_up():
 
 def Collision(t1, t2):
 	distance = math.sqrt(math.pow(t1.xcor()-t2.xcor(),2)+math.pow(t1.ycor()-t2.ycor(),2))
-	if distance < 30:
+	if distance < 100:
 		return True
 	else:
 		return False
